@@ -8,6 +8,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using System;
 using RESTFulSense.Clients;
+using HSpeach.Portal.Models.Configurations;
 
 namespace HSpeach.Portal.Brokers.OpenAIs
 {
