@@ -3,6 +3,9 @@
 // FREE TO USE ALL GOOD HEART Developers
 // ---------------------------------------------------------------
 
+using Microsoft.Extensions.Logging;
+using System;
+
 namespace HSpeach.Portal.Brokers.Loggings
 {
     public class LoggingBroker : ILoggingBroker
