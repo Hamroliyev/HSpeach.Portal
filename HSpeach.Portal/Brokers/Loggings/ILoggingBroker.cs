@@ -3,6 +3,8 @@
 // FREE TO USE ALL GOOD HEART Developers
 // ---------------------------------------------------------------
 
+using System;
+
 namespace HSpeach.Portal.Brokers.Loggings
 {
     public interface ILoggingBroker
