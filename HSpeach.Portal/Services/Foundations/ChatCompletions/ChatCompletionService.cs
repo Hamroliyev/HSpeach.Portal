@@ -3,6 +3,7 @@
 // FREE TO USE ALL GOOD HEART Developers
 // ---------------------------------------------------------------
 
+using HSpeach.Portal.Brokers.DateTimes;
 using HSpeach.Portal.Brokers.OpenAIs;
 using HSpeach.Portal.Models.Services.Foundations.ChatCompletions;
 using System.Threading.Tasks;
